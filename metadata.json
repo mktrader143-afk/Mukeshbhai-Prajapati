@@ -1,0 +1,6 @@
+{
+  "name": "ઘરનો હિસાબ કિતાબ - Ghar Kharch & Budget Tracker",
+  "description": "ઘરના રોજિંદા ખર્ચ, દૂધ ડાયરી, આવક-જાવક અને ઉધાર-જમા ખાતાવહી રાખવા માટેની સંપૂર્ણ દેશી અને સરળ હિસાબ એપ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
